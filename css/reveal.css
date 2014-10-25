@@ -1878,3 +1878,18 @@ body {
 }
 
 
+
+h1 {
+  font-size:1.6em;
+}
+
+#green{
+  color:green;
+}
+ul #three li {
+  color:green;
+}
+
+.kallor p{
+  font-size:1em;
+}
